@@ -1,8 +1,7 @@
 esta es la historia de yonier nañez
 
-yonier tiene 27 años y nacio en colombia,
-viviendo en cartago
+yonier tiene 26 años y nacio en colombia
 
-hoy hablaremos de su vida y obra maestra.
+hoy hablaremos de su historia
 
-este git me lo estaba pelando
+por fin entendi git
